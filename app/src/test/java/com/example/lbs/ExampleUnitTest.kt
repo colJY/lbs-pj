@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.lbs
 
 import org.junit.Test
 
